@@ -1,0 +1,22 @@
+//En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes 
+//conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a 
+//descubrir rápidamente cualquier agujero en tu comprensión.
+//Variables
+//Strings
+//Funciones (argumentos, return)
+//Declaraciones if
+//Valores booleanos (true, false)
+
+//1. Las variables son instrumentos que nos permiten crear y dar nuevos valores al script
+//2. Los strings/cadenas son bloques de texto que van entre “” luego de la variable.
+//3.Las funciones son similar a un procedimientoun conjunto de instrucciones que realiza una area o calcula un valor tomando
+//las variables previamente introducidas, pero para que un procedimiento califique como función, debe tomar alguna entrada 
+//y devolver una salida donde hay alguna relación obvia entre la entrada y la salida. La función siempre empieza con la palabra
+//function *nombre de la función* (*argumento*).
+// -argumento(s): Las variables que necesitan las funciones se llaman argumentos. Antes de que pueda utilizarlos, la función debe indicar cuántos argumentos necesita y cuál es el nombre de cada argumento.
+//Además, al invocar la función, se deben incluir los valores que se le van a pasar a la función. Para agregar multiples argumentos se agrega una coma entre ellos.
+// -Return: La sentencia return finaliza la ejecución de la función y especifica un valor para ser devuelto a quien llama a la función. Se usa vuando queremos devolver el valor de la funciòn 
+//y cuando queremos q la funciòn deje de ejecutarse.
+// -Scope/alcance: si intentamos console.log algo declarado fuera de la funciòn, va a tirar undefined xq no tenemos acceso a èl fuera de la funciòn. La única forma de acceder a algo dentro de la función es devolverlo.
+// -Declaraciones (if): El control de flujo es una forma de q nuestra función verifique si algo es true, ejecutando el còdigo suministrado si es asì ó avanzando si no lo es.
+// -Valores booleanos (true or false):tipos de datos, un valor booleano posee operadores de comparaciòn que comparan dos valores y devuelven el T o F.
